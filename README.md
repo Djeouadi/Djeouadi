@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Djeouadi Mohammed </h1>
+<h1 align="center">I'm Djeouadi Mohammed </h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-![future](https://github.com/Djeouadi/Djeouadi/assets/158456725/3d7eed21-64ca-4e50-bfd8-eff25e3f25a6)
+![anime](https://github.com/Djeouadi/Djeouadi/assets/158456725/7be047f2-d722-45ba-8768-7cc381f8832c)
+
+
 
 
 <h3 align="left">Connect with me:</h3>
